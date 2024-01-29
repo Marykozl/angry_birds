@@ -101,7 +101,7 @@ const config = {
     width: 400, 
     height: 490, 
     scene: Main, // Цю сцену ми створимо на 4-му кроці 
-    backgroundColor: '#71c5cf', 
+    backgroundColor: '#000000', 
     physics: { 
         default: 'arcade', 
         arcade: { 
